@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+  "name"				"MOTDgd Advertisements"
+	"version"			"2.07"
+	"up_date"			"5th August 2015"
+	"author_name"			"MOTDgd.com"
+	"author_email"			"paul.l@motdgd.com"
+	"author_url"			"motdgd.com"
+	"info"				"MOTDgd.com"
+	"override"			"0"
+}
