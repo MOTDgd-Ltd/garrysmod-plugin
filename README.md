@@ -1,4 +1,4 @@
-# MOTDgd LUA Plugin for Garry's Mod#
+# MOTDgd LUA Plugin for Garry's Mod
 ###### Version 2.07 (5th August 2015)
 
 Installation Instructions
